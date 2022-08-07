@@ -1,4 +1,4 @@
-#IceGram
+# IceGram
 
 IceGram is a photo gallery created with React and Firebase.
 
